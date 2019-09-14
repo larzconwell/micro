@@ -1,0 +1,7 @@
+-- Start of example program
+begin
+    id_1 := 5;
+    id_2 := 10;
+    read(id_3, id_4);
+    write((0 + id_1 + id_2) + id_3 - id_4); -- Write out results
+end
